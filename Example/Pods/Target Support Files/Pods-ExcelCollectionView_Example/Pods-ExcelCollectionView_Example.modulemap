@@ -1,0 +1,6 @@
+framework module Pods_ExcelCollectionView_Example {
+  umbrella header "Pods-ExcelCollectionView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

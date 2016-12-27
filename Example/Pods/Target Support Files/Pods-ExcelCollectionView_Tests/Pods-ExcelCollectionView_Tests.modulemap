@@ -1,0 +1,6 @@
+framework module Pods_ExcelCollectionView_Tests {
+  umbrella header "Pods-ExcelCollectionView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

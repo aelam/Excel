@@ -1,0 +1,6 @@
+framework module ExcelCollectionView {
+  umbrella header "ExcelCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
